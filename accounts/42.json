@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "ets-mining-one",
+  "private_key_id": "56ca32bee9669beef414fc4781b37c34aec1bab5",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCy/+6R7Nx7mOAO\n+MSi0+F1fi0+79+N7dCzBvyBP8eaz9akVn4352co0BxAvdsioyYhc2I5rPeP1cci\nMUf3MMBrURlPDiA5W3H+hi3eHWG6CmxudQxMMr4rwZ1tOrLRFvsYJIUPTws6VJMA\noN+77i+JRBsUbqmrn20+ZGYhhHcL7Fbbh01C8023BuxUoMqhOGlTP+8/bSL5yG/F\n5R7q72Z2RAahDK7L8Q0m8cGXPK6wyBD09BSKE7Jqfx4rT67v4S3CHqeXvXgvATE0\n6qEkQuEaxfT5lWE6vfbLL4oXDB2yYqxSC1wakGZAhvdw69JitROizFk+nyGL8dVB\nGbglujxrAgMBAAECggEANZjjrwcc59dZM7Jycoz+A+fRlXhO2JkedhS/89WMp4LX\nMuMBLS0ZWwOhihMvM/plFvwNK9bqU8O/ujHGajJLU3b3nI/Ov03t3rf/sPPcSNAJ\nMrPSiFhjUAfL4yKB25DFg6+ftftFkeQ0FiqVg5io3DGr6BzQqiZ1GAsI971JxiQu\n0ttUy3G7QOq71Y9Q/OVSfdQKx9vlJvVFHG5257q0wPgi+7NZ7WHDJVrRLmg8jML6\nbgaNhEXZ07cF9qY+EI1WUXKM+F8uGvtSIcawi6P90ZWWtnMNQeheVR0XW9UTeGES\nAGiR4SYdvCxZ4F5Gzih/72ND9D/e2XcmTTom2Lu7rQKBgQD8nTED5phBHF8e4hZi\nnqi6+yzvGMtMPgp4vZSdSukXcsB6Zt0EOcmYSt+nhnorVgkSBDHsRYEgFkBXucCT\nL8bkn0DoZWHZSJiusme/ig+f1ySBn+isAVNR6TbNaxeB1qk8VJ9XRm1Dz1ZrrP+I\nAaWz0EhRqtLYpkbfEVnpzx1QnQKBgQC1ZiTFI+M0ElRNDjSBzGD/tsI1NxE8Ic/M\nISOlDD/VV4C0Vor9f6csIQYMFzmX/8djYNv+V3UvY/k/FJLtjwUbnc86a3aFX84M\nci42EyAyJLNnab/3jhmvw1DE2i7x2U3LG2muEO+tgRj8KBxwhM0ModILU+crn/92\nAJIMM7VepwKBgFIOHWXO+ZXsyVkWx36xWs2h2S6xNxhE7tHZgvS06JIdTDh2QUSm\nIL2/VHbuT7DT+Y5Ino7I5PCvSac1R0CIPGr27/aNOAOEeVQFz32AMyMQl2Mjtkhp\nBc+NmaeQKcqbF83pDvkif0uPhdrkDvz2zARkm5kri+Gj4VGEKVixVixhAoGBAJtr\na7+48tbPiYkHzbcUPFt748OibdLeiWK1Vgv4hcytjyl0KNvvfnURylObpo3z6Yrd\nF0BBALdc6dXBM+30JwU1XbMJFeBKaIlDXxKXqnMr/MZy1bYt+xYbu10eLzCp5bxK\nvW4VNrWqsZSCbXN+ZQ0YrJVmCt/W0xLwhDGOMCxrAoGBALh5iqNZ6IQ0YSInQA8m\nNC6aw4tIuzin1K7FEi6E0FeVOZnDzHyf4JQlWklYy6ejPqOT83omxVquocTT07ld\n7lrHuzUWRSpOCTECRx4c6RdNT/IplqETdhz/VOo0y3d9xgW5z12l9lYVd4MNy4nE\nQGL0MsHyJ2QK1mIYbXMJXrUB\n-----END PRIVATE KEY-----\n",
+  "client_email": "mfc-txx3eq9f--oysl3muggit69lr6@ets-mining-one.iam.gserviceaccount.com",
+  "client_id": "100543090840955372406",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mfc-txx3eq9f--oysl3muggit69lr6%40ets-mining-one.iam.gserviceaccount.com"
+}
